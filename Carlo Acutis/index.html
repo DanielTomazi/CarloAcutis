@@ -1,30 +1,205 @@
-<link rel="stylesheet" href="styles.css">
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Carlo Acutis</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <title>Beato Carlo Acutis - O Santo da Internet</title>
 </head>
 <body>
-    <header>
-        <h1>Carlo Acutis</h1>
-        <nav>
-            <ul>
-                <li><a href="biography.html">Biografia</a></li>
-                <li><a href="miracles.html">Milagres</a></li>
-                <li><a href="curiosities.html">Curiosidades</a></li>
-                <li><a href="quotes.html">Frases</a></li>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <i class="fas fa-cross"></i>
+                <span>Carlo Acutis</span>
+            </div>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="index.html" class="nav-link active">Início</a>
+                </li>
+                <li class="nav-item">
+                    <a href="biografia.html" class="nav-link">Biografia</a>
+                </li>
+                <li class="nav-item">
+                    <a href="milagres.html" class="nav-link">Milagres</a>
+                </li>
+                <li class="nav-item">
+                    <a href="curiosidades.html" class="nav-link">Curiosidades</a>
+                </li>
+                <li class="nav-item">
+                    <a href="frases.html" class="nav-link">Frases</a>
+                </li>
+                <li class="nav-item">
+                    <a href="eucaristia.html" class="nav-link">Eucaristia</a>
+                </li>
             </ul>
-        </nav>
-    </header>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+
     <main>
-        <p>Bem-vindo ao site dedicado a Carlo Acutis.</p>
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1 class="hero-title">Beato Carlo Acutis</h1>
+                    <p class="hero-subtitle">"A Eucaristia é a minha autoestrada para o céu"</p>
+                    <p class="hero-description">
+                        Jovem santo que dedicou sua vida a Cristo e usou a tecnologia para evangelizar. 
+                        Conheça a história inspiradora do patrono da internet.
+                    </p>
+                    <div class="hero-buttons">
+                        <a href="biografia.html" class="btn btn-primary">Conhecer sua História</a>
+                        <a href="milagres.html" class="btn btn-secondary">Ver Milagres</a>
+                    </div>
+                </div>
+                <div class="hero-image">
+                    <img src="img/beato-carloacutis.webp" alt="Beato Carlo Acutis" id="carlo-image">
+                    <div class="image-overlay">
+                        <i class="fas fa-heart"></i>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section class="about">
+            <div class="container">
+                <h2 class="section-title">O Santo da Era Digital</h2>
+                <div class="about-grid">
+                    <div class="about-card">
+                        <div class="card-icon">
+                            <i class="fas fa-laptop-code"></i>
+                        </div>
+                        <h3>Programador Precoce</h3>
+                        <p>Aos 11 anos, Carlo já criava websites e amava tecnologia, usando seus talentos para evangelizar.</p>
+                    </div>
+                    <div class="about-card">
+                        <div class="card-icon">
+                            <i class="fas fa-bread-slice"></i>
+                        </div>
+                        <h3>Devoto da Eucaristia</h3>
+                        <p>Tinha profunda devoção ao Santíssimo Sacramento e participava da Missa diariamente.</p>
+                    </div>
+                    <div class="about-card">
+                        <div class="card-icon">
+                            <i class="fas fa-hands-helping"></i>
+                        </div>
+                        <h3>Coração Generoso</h3>
+                        <p>Ajudava os necessitados e dedicava tempo aos mais pobres, vivendo o Evangelho na prática.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Timeline Section -->
+        <section class="timeline-section">
+            <div class="container">
+                <h2 class="section-title">Vida de Carlo Acutis</h2>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <div class="timeline-date">1991</div>
+                        <div class="timeline-content">
+                            <h3>Nascimento</h3>
+                            <p>Nasce em Londres em 3 de maio, filho de pais italianos.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-date">1998</div>
+                        <div class="timeline-content">
+                            <h3>Primeira Comunhão</h3>
+                            <p>Aos 7 anos, recebe a Primeira Comunhão e desenvolve profunda devoção eucarística.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-date">2002</div>
+                        <div class="timeline-content">
+                            <h3>Paixão pela Programação</h3>
+                            <p>Aos 11 anos, começa a criar websites sobre milagres eucarísticos.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-date">2006</div>
+                        <div class="timeline-content">
+                            <h3>Partida para o Céu</h3>
+                            <p>Morre em 12 de outubro, aos 15 anos, vítima de leucemia.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-date">2020</div>
+                        <div class="timeline-content">
+                            <h3>Beatificação</h3>
+                            <p>É beatificado pelo Papa Francisco em 10 de outubro.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Prayer Section -->
+        <section class="prayer-section">
+            <div class="container">
+                <div class="prayer-content">
+                    <h2>Oração ao Beato Carlo Acutis</h2>
+                    <div class="prayer-text">
+                        <p>
+                            "Ó Deus, nosso Pai, obrigado por nos teres dado Carlo, um modelo de vida para os jovens, 
+                            e uma mensagem de amor para todos. Tu fizeste dele um enamorado da Eucaristia, 
+                            e colocaste nele uma sintonia especial com os pobres e os pequenos.
+                        </p>
+                        <p>
+                            Concede também a nós o seu mesmo entusiasmo na fé, a sua mesma esperança 
+                            e a sua mesma caridade. Faz que também nós saibamos testemunhar 
+                            a beleza da amizade contigo e viver como verdadeiros discípulos de Jesus.
+                        </p>
+                        <p class="prayer-end">
+                            Amém.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
     </main>
-    <footer>
-        <p>&copy; 2023 Daniel Tomazi ®️. Todos os direitos reservados.</p>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Beato Carlo Acutis</h3>
+                    <p>Site dedicado à memória e devoção do jovem santo da era digital.</p>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h3>Links Úteis</h3>
+                    <ul>
+                        <li><a href="biografia.html">Biografia</a></li>
+                        <li><a href="milagres.html">Milagres</a></li>
+                        <li><a href="frases.html">Frases</a></li>
+                        <li><a href="eucaristia.html">Devoção Eucarística</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Oração Diária</h3>
+                    <p>"A tristeza é dirigir o olhar para si mesmo. A felicidade é dirigir o olhar para Deus."</p>
+                    <p><em>- Beato Carlo Acutis</em></p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Daniel Tomazi. Todos os direitos reservados.</p>
+            </div>
+        </div>
     </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>
