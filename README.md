@@ -1,4 +1,4 @@
-# 🌟 Site Beato Carlo Acutis
+# Site Beato Carlo Acutis
 
 Um site elegante e moderno dedicado ao jovem santo da era digital, criado para inspirar jovens católicos ao redor do mundo.
 
@@ -6,11 +6,11 @@ Um site elegante e moderno dedicado ao jovem santo da era digital, criado para i
 ![Tecnologia](https://img.shields.io/badge/tecnologia-HTML5%20%7C%20CSS3%20%7C%20JavaScript-brightgreen.svg)
 ![Status](https://img.shields.io/badge/status-completo-success.svg)
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 Este é um site completo e responsivo em homenagem ao **Beato Carlo Acutis** (1991-2006), o jovem programador italiano que foi beatificado pela Igreja Católica em 2020. O site combina tecnologia moderna com conteúdo espiritual profundo, refletindo o próprio espírito de Carlo que usava a tecnologia para evangelizar.
 
-### 🎯 Objetivo
+### Objetivo
 
 Criar uma plataforma digital que:
 - Inspire jovens a conhecer a vida de Carlo Acutis
@@ -18,16 +18,16 @@ Criar uma plataforma digital que:
 - Demonstre que santidade e modernidade podem coexistir
 - Sirva como ferramenta de evangelização digital
 
-## ✨ Características Principais
+## Características Principais
 
-### 🎨 Design Moderno
+### Design Moderno
 - **Interface elegante** com gradientes e animações suaves
 - **Totalmente responsivo** para desktop, tablet e mobile
 - **Paleta de cores harmoniosa** (azul, dourado, cinza)
 - **Tipografia profissional** (Playfair Display + Inter)
 - **Ícones Font Awesome** temáticos
 
-### 📱 Funcionalidades Interativas
+### Funcionalidades Interativas
 - Menu hamburger responsivo
 - Contador de orações e reflexões
 - Frases inspiradoras aleatórias
@@ -35,25 +35,25 @@ Criar uma plataforma digital que:
 - Scroll suave e animações de aparição
 - Sistema de devoção diária
 
-### 🛠️ Tecnologias Utilizadas
+### Tecnologias Utilizadas
 - **HTML5** - Estrutura semântica
 - **CSS3** - Estilização avançada com Grid e Flexbox
 - **JavaScript Vanilla** - Interatividade sem dependências
 - **Font Awesome 6** - Ícones vetoriais
 - **Google Fonts** - Tipografia elegante
 
-## 📄 Estrutura do Site
+## Estrutura do Site
 
 ### Páginas Principais
 
 | Página | Descrição | Arquivo |
 |--------|-----------|---------|
-| **🏠 Início** | Página principal com hero section, timeline e oração | `index.html` |
-| **📚 Biografia** | Vida completa de Carlo desde o nascimento até a beatificação | `biografia.html` |
-| **✨ Milagres** | Milagres reconhecidos oficialmente e testemunhos | `milagres.html` |
-| **🎯 Curiosidades** | Aspectos únicos e interessantes da vida de Carlo | `curiosidades.html` |
-| **💬 Frases** | Citações inspiradoras organizadas por temas espirituais | `frases.html` |
-| **🍞 Eucaristia** | Devoção eucarística e projeto dos milagres eucarísticos | `eucaristia.html` |
+| **Início** | Página principal com hero section, timeline e oração | `index.html` |
+| **Biografia** | Vida completa de Carlo desde o nascimento até a beatificação | `biografia.html` |
+| **Milagres** | Milagres reconhecidos oficialmente e testemunhos | `milagres.html` |
+| **Curiosidades** | Aspectos únicos e interessantes da vida de Carlo | `curiosidades.html` |
+| **Frases** | Citações inspiradoras organizadas por temas espirituais | `frases.html` |
+| **Eucaristia** | Devoção eucarística e projeto dos milagres eucarísticos | `eucaristia.html` |
 
 ### Arquivos de Suporte
 
@@ -62,7 +62,7 @@ Criar uma plataforma digital que:
 | `styles.css` | Estilos principais e responsividade |
 | `script.js` | Funcionalidades interativas e animações |
 
-## 🚀 Como Executar
+## Como Executar
 
 1. **Clone o repositório:**
    ```bash
@@ -81,37 +81,37 @@ Criar uma plataforma digital que:
    - ✅ Safari 13+
    - ✅ Edge 80+
 
-## 📱 Recursos por Página
+## Recursos por Página
 
-### 🏠 Página Inicial
+### Página Inicial
 - Hero section com chamada inspiradora
 - Cards sobre características de Carlo
 - Timeline interativa da vida
 - Seção de oração oficial
 - Links para todas as seções
 
-### 📚 Biografia
+### Biografia
 - História completa desde o nascimento
 - Contexto familiar e descoberta da fé
 - Paixão pela programação e evangelização
 - Vida de caridade e devoções
 - Últimos momentos e legado
 
-### ✨ Milagres
+### Milagres
 - Milagre oficial da beatificação (Brasil)
 - Outros prodígios relatados mundialmente
 - Instruções para pedir intercessão
 - Testemunhos de fiéis
 - Oração oficial para graças
 
-### 🎯 Curiosidades
+### Curiosidades
 - Aspectos únicos da personalidade
 - Relação com tecnologia e videogames
 - Vida espiritual extraordinária
 - Atos de caridade desde criança
 - Legado após a morte
 
-### 💬 Frases
+### Frases
 - Citações organizadas por temas:
   - Eucaristia e Missa
   - Felicidade e tristeza  
@@ -124,7 +124,7 @@ Criar uma plataforma digital que:
 - Gerador de frase do dia
 - Contador de reflexões
 
-### 🍞 Eucaristia
+### Eucaristia
 - Centro da espiritualidade de Carlo
 - Projeto dos milagres eucarísticos
 - Rotina de Missa e adoração
@@ -132,7 +132,7 @@ Criar uma plataforma digital que:
 - Ensinamentos sobre a Eucaristia
 - Contador de comunhões espirituais
 
-## 🎨 Paleta de Cores
+## Paleta de Cores
 
 ```css
 --primary-color: #2c3e50      /* Azul escuro */
@@ -145,7 +145,7 @@ Criar uma plataforma digital que:
 --light-gray: #95a5a6         /* Cinza claro */
 ```
 
-## 📊 Funcionalidades JavaScript
+## Funcionalidades JavaScript
 
 ### Navegação
 - Menu responsivo com animação hamburger
@@ -170,7 +170,7 @@ Criar uma plataforma digital que:
 - Navegação por teclado
 - Indicadores de foco para acessibilidade
 
-## 📱 Responsividade
+## Responsividade
 
 O site foi desenvolvido com **mobile-first** e inclui:
 
@@ -187,7 +187,7 @@ O site foi desenvolvido com **mobile-first** e inclui:
 - Botões com tamanho adequado para toque
 - Timeline simplificada
 
-## 🔧 Customização
+## Customização
 
 ### Alterando Cores
 Edite as variáveis CSS no início do arquivo `styles.css`:
@@ -213,7 +213,7 @@ const carloQuotes = [
 ### Modificando Contadores
 Os contadores usam `localStorage` e podem ser customizados no `script.js`.
 
-## 🌐 SEO e Acessibilidade
+## SEO e Acessibilidade
 
 ### SEO
 - Meta tags descritivas
@@ -229,7 +229,7 @@ Os contadores usam `localStorage` e podem ser customizados no `script.js`.
 - Focus indicators
 - ARIA labels onde necessário
 
-## 📈 Performance
+## Performance
 
 ### Otimizações
 - CSS e JS minificados (em produção)
@@ -243,7 +243,7 @@ Os contadores usam `localStorage` e podem ser customizados no `script.js`.
 - **Largest Contentful Paint:** < 2s
 - **Time to Interactive:** < 3s
 
-## 🤝 Contribuições
+## Contribuições
 
 Este é um projeto pessoal, mas sugestões são bem-vindas:
 
@@ -259,7 +259,7 @@ Este é um projeto pessoal, mas sugestões são bem-vindas:
 - Teste em múltiplos dispositivos
 - Documente alterações importantes
 
-## 📋 TODO / Futuras Melhorias
+## TODO / Futuras Melhorias
 
 ### Curto Prazo
 - [ ] Galeria de imagens de Carlo
@@ -279,21 +279,21 @@ Este é um projeto pessoal, mas sugestões são bem-vindas:
 - [ ] Sistema de usuários
 - [ ] Gamificação da devoção
 
-## 📞 Contato e Suporte
+## Contato e Suporte
 
 - **Autor:** Daniel Tomazi de Oliveira
 - **Versão:** 2.0
 - **Data de Atualização:** Julho 2025
 - **Licença:** Projeto pessoal sem fins comerciais
 
-## 🙏 Agradecimentos
+## Agradecimentos
 
 - **Beato Carlo Acutis** - pela inspiração
 - **Igreja Católica** - pelas informações oficiais
 - **Família Acutis** - por compartilhar a história
 - **Comunidade católica** - pelo apoio e feedback
 
-## 📜 Disclaimer
+## Disclaimer
 
 Este site é um projeto **pessoal e devocional**, criado sem fins comerciais ou lucrativos. Todo o conteúdo sobre Carlo Acutis é baseado em fontes oficiais da Igreja Católica e biografias aprovadas. A imagem utilizada é de domínio público ou utilizada com fins educacionais e devocionais.
 
